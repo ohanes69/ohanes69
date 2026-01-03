@@ -10,7 +10,7 @@ Développeur passionné par la création d'applications web et le développement
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%20Lang-00599C?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/C%20Low--Level-00599C?style=for-the-badge&logo=c"/>
 </p>
 
 </div>
