@@ -11,14 +11,6 @@ Développeur passionné par la création d'applications web et le développement
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ohanes69&show_icons=true&theme=tokyonight&locale=fr&hide_border=true)
-
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohanes69&layout=compact&theme=tokyonight&locale=fr&hide_border=true)
-
 </div>
 
 ## 🎯 Compétences
