@@ -1,19 +1,15 @@
-# 👋 Salut, moi c'est Sacha !
-
 ## 🚀 À propos de moi
 Développeur passionné par la création d'applications web et le développement logiciel.
 
 ## 💻 Stack Technique
 
-### Frontend
+### Langages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black)
-
-### Langages
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 Statistiques GitHub
 
@@ -24,11 +20,6 @@ Développeur passionné par la création d'applications web et le développement
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohanes69&layout=compact&theme=tokyonight&locale=fr&hide_border=true)
 
 </div>
-
-## 🔭 Projets en cours
-- 💱 **push_swap** - Algorithme de tri en C
-- 🌐 **MyParrainage** - Application web en HTML
-- ⚽ **projectFodenFi** - Projet CSS
 
 ## 🎯 Compétences
 ```text
