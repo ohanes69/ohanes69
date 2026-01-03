@@ -4,14 +4,50 @@ Développeur passionné par la création d'applications web et le développement
 ## 💻 Stack Technique
 
 ### Langages
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<table>
+<tr><td>HTML</td><td>70%</td></tr>
+<tr><td colspan="2">
+<div style="background:#ddd;border-radius:10px;">
+<div style="width:70%;background:#e34f26;height:12px;border-radius:10px;"></div>
+</div>
+</td></tr>
+
+<tr><td>CSS</td><td>70%</td></tr>
+<tr><td colspan="2">
+<div style="background:#ddd;border-radius:10px;">
+<div style="width:70%;background:#1572b6;height:12px;border-radius:10px;"></div>
+</div>
+</td></tr>
+
+<tr><td>TailwindCSS</td><td>70%</td></tr>
+<tr><td colspan="2">
+<div style="background:#ddd;border-radius:10px;">
+<div style="width:70%;background:#38b2ac;height:12px;border-radius:10px;"></div>
+</div>
+</td></tr>
+
+<tr><td>Python</td><td>30%</td></tr>
+<tr><td colspan="2">
+<div style="background:#ddd;border-radius:10px;">
+<div style="width:30%;background:#3776ab;height:12px;border-radius:10px;"></div>
+</div>
+</td></tr>
+
+<tr><td>JavaScript</td><td>30%</td></tr>
+<tr><td colspan="2">
+<div style="background:#ddd;border-radius:10px;">
+<div style="width:30%;background:#f7df1e;height:12px;border-radius:10px;"></div>
+</div>
+</td></tr>
+
+<tr><td>C</td><td>30%</td></tr>
+<tr><td colspan="2">
+<div style="background:#ddd;border-radius:10px;">
+<div style="width:30%;background:#00599c;height:12px;border-radius:10px;"></div>
+</div>
+</td></tr>
+</table>
+
 
 </div>
 
