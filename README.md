@@ -16,34 +16,12 @@ Développeur passionné par la création d'applications web et le développement
 </div>
 
 ## 🎯 Compétences
-<b>HTML</b>
-<div style="background:#e5e7eb;border-radius:8px;width:100%;height:14px;">
-  <div style="width:70%;background:#e34f26;height:14px;border-radius:8px;"></div>
-</div>
-
-<b>CSS</b>
-<div style="background:#e5e7eb;border-radius:8px;width:100%;height:14px;">
-  <div style="width:70%;background:#1572b6;height:14px;border-radius:8px;"></div>
-</div>
-
-<b>TailwindCSS</b>
-<div style="background:#e5e7eb;border-radius:8px;width:100%;height:14px;">
-  <div style="width:70%;background:#38b2ac;height:14px;border-radius:8px;"></div>
-</div>
-<b>Python</b>
-<div style="background:#e5e7eb;border-radius:8px;width:100%;height:14px;">
-  <div style="width:30%;background:#3776ab;height:14px;border-radius:8px;"></div>
-</div>
-
-<b>JavaScript</b>
-<div style="background:#e5e7eb;border-radius:8px;width:100%;height:14px;">
-  <div style="width:30%;background:#f7df1e;height:14px;border-radius:8px;"></div>
-</div>
-
-<b>C</b>
-<div style="background:#e5e7eb;border-radius:8px;width:100%;height:14px;">
-  <div style="width:30%;background:#00599c;height:14px;border-radius:8px;"></div>
-</div>
+HTML            ██████████████░░░░░░   70%
+CSS             ██████████████░░░░░░   70%
+TailwindCSS     ██████████████░░░░░░   70%
+JavaScript      ██████░░░░░░░░░░░░░░   30%
+Python          ██████░░░░░░░░░░░░░░   30%
+C               ██████░░░░░░░░░░░░░░   30%
 
 
 ## 📫 Me contacter
